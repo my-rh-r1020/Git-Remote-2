@@ -8,5 +8,5 @@ print('Well great for you ^_^', name)
 
 print('How about your grade in previous semester?')
 grade = float(input())
-print('Awesome! You got ', grade,
-      'I hope you can maintain your grade for next semester')
+print('Awesome! You got .', grade,
+      'I hope you can maintain your grade for next semester ^_^')
